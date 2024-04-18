@@ -33,7 +33,7 @@ const Home = () => {
                 </div>
                 {/* button Creation */}
                 <div className="flex flex-row gap-7 mt-8">
-                    <CTAButton active={true} linkto={"/signup"}>Lrean More</CTAButton>
+                    <CTAButton active={true} linkto={"/signup"}>Learn More</CTAButton>
                     <CTAButton active={false} linkto={"/login"}>Book a Demo</CTAButton>
                 </div>
 
